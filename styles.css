@@ -139,13 +139,16 @@ main {
   color: var(--visual-color);
 }
 
+.stat-type {
+  font-weight: 500;
+}
+
 .stat-score {
   color: var(--dark-blue);
 }
 
 .btn {
-  padding: 20px;
-  font-weight: 700;
+  padding: 15px;
   color: #fff;
   border: none;
   outline: none;
